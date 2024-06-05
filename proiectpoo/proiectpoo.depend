@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1717607217 source:c:\users\ionut\desktop\proiect_poo m\proiectpoo\main.cpp
+	<iostream>
+	"Magazin.h"
+	"Subprodus.h"
+	"Administrator.h"
+	"Client.h"
+	"Produs.h"
+	<fstream>
+	<random>
+	<algorithm>
+
+1717592409 source:c:\users\ionut\desktop\proiect_poo m\proiectpoo\src\administrator.cpp
+	"Administrator.h"
+
+1717592409 c:\users\ionut\desktop\proiect_poo m\proiectpoo\include\administrator.h
+	<string>
+	<fstream>
+	<iostream>
+	<vector>
+
+1717606149 source:c:\users\ionut\desktop\proiect_poo m\proiectpoo\src\client.cpp
+	"Client.h"
+
+1717605733 c:\users\ionut\desktop\proiect_poo m\proiectpoo\include\client.h
+	<string>
+	<fstream>
+	<iostream>
+	<vector>
+
+1717600871 source:c:\users\ionut\desktop\proiect_poo m\proiectpoo\src\produs.cpp
+	"Produs.h"
+
+1717599700 c:\users\ionut\desktop\proiect_poo m\proiectpoo\include\produs.h
+	<cstring>
+	<iostream>
+
+1717603871 source:c:\users\ionut\desktop\proiect_poo m\proiectpoo\src\subprodus.cpp
+	"Subprodus.h"
+	<fstream>
+
+1717603432 c:\users\ionut\desktop\proiect_poo m\proiectpoo\include\subprodus.h
+	<cstring>
+	<Produs.h>
+	<iostream>
+
+1717601120 source:c:\users\ionut\desktop\proiect_poo m\proiectpoo\src\magazin.cpp
+	"Magazin.h"
+	<iostream>
+	<fstream>
+
+1717600871 c:\users\ionut\desktop\proiect_poo m\proiectpoo\include\magazin.h
+	<iostream>
+	<vector>
+	"Subprodus.h"
+
